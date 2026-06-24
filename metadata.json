@@ -1,0 +1,14 @@
+{
+    "uuid": "media-output@tanaybhomia.github.com",
+    "name": "Media Output Switcher",
+    "description": "Quickly switch media output devices from the panel and via shortcut.",
+    "shell-version": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50"
+    ],
+    "url": "https://github.com/tanaybhomia/MediaOutput"
+}

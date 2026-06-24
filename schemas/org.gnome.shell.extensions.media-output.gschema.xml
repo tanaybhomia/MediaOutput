@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.media-output" path="/org/gnome/shell/extensions/media-output/">
+        <key name="shortcut-popup" type="as">
+            <default><![CDATA[['<Super>a']]]></default>
+            <summary>Keyboard shortcut to pop up the media output screen</summary>
+            <description>Keyboard shortcut to pop up the media output screen.</description>
+        </key>
+    </schema>
+</schemalist>
